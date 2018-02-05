@@ -2,4 +2,4 @@
 Repository for tests.
 Let us now do something.
 
-This project is getting better and better. Yes...
+This project is getting better and better.
